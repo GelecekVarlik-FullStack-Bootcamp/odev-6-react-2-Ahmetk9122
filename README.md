@@ -1,15 +1,42 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
 
-# Homework 
-```Ödev```
+# React İkinci Hafta Ödevi.
 
+- Projenin amacı verilen apiden gelen istekler doğrultusunda arayüzü react ile tasarlanmış bir todo uygulaması geliştirmek.
 
-## Homework Description
+## Projenin Gereksinimleri
 
-```Ödev Açıklaması ```
+-  Verilen api üzerinden gelen verileri kullanarak login işlemi gerçekleştirilmesi
 
+- Todo ve Kategori adında iki buton koyulması ve butonlara basıldığında kategori ve todo sayfalarının görüntülenmesi
 
-## Author
+- Yapılacak işin alınması kategorilerin ve durumunun seçilerek eklenmesi
+ 
+- Yapılacak görevlerin listelenmesi
 
-```Ödevi yapan```
+- Kategori eklenmesi 
+
+- Kategoriye dair gerekliliklerin gösterilmesi 
+
+- Kategorilerin güncellenmesi
+
+- Kategorilerin listelenmesi
+
+- Gerekliliklerin eklenmesi
+
+- Gerekliliklerin listelenmesi ve arka planının status rengine göre değiştirilmesi
+
+  
+## Ekran Görüntüleri
+
+![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+  
+## Ödevi Yapan
+* Ahmet KARAUDAK
+
+  
+## Lisans
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
