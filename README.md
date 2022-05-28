@@ -28,9 +28,10 @@
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![login](https://user-images.githubusercontent.com/71569624/170802308-d5c6fe82-35e8-4e4e-bce1-acb69cbff9d1.PNG)
+![todo](https://user-images.githubusercontent.com/71569624/170802311-7067dc7c-3f1b-4cd7-a9d9-7473ca250012.PNG)
+![categories](https://user-images.githubusercontent.com/71569624/170802313-0a328f07-0eb3-4d5f-9b67-ed406a514d57.PNG)
 
-  
 ## Ödevi Yapan
 * Ahmet KARAUDAK
 
